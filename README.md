@@ -63,6 +63,10 @@ You can also use the **Clear Selection** button to reset the selection and start
     └── README.md           # Project documentation
 ```
 
+## Sample Images
+<img width="604" alt="Gui" src="https://github.com/user-attachments/assets/8447e64f-b8ef-474d-ae40-f8837cb8bdb4">
+<img width="604" alt="Convert file" src="https://github.com/user-attachments/assets/0a465bf4-3b73-44e7-8016-bd270465a27b">
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
